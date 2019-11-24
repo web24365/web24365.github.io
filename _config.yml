@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: web24365
 minimal_mistakes_skin: default
 search: true
+url : "https://web24365.github.io"
 
 # Build settings
 markdown: kramdown
@@ -62,16 +63,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://web24365.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/web24365"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/nohill"
 
 footer:
   links:
