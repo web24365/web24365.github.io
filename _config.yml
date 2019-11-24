@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Youjun Won"
-  avatar : "/assets/images/mardi-himal.jpg"
+  avatar : "/assets/images/mardi-himal.png"
   bio    : "Trekker, developer, founder, student for everything."
   links:
     - label: "Website"
