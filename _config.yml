@@ -112,3 +112,34 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+  gallery:
+ - url:/assets/images/10월30일/IMG_2656.png
+   image_path:/assets/images/10월30일/IMG_2656.png
+   alt:
+   title:
+ - url:/assets/images/10월30일/IMG_2675.png
+   image_path:/assets/images/10월30일/IMG_2675.png
+   alt:
+   title:
+ - url:/assets/images/10월30일/IMG_2673.png
+   image_path:/assets/images/10월30일/IMG_2673.png
+   alt:
+   title:
+ - url:/assets/images/10월30일/IMG_2663.png
+   image_path:/assets/images/10월30일/IMG_2663.png
+   alt:
+   title:
+ - url:/assets/images/10월30일/IMG_2665.png
+   image_path:/assets/images/10월30일/IMG_2665.png
+   alt:
+   title:
+ - url:/assets/images/10월30일/IMG_2656.png
+   image_path:/assets/images/10월30일/IMG_2656.png
+   alt:
+   title:
+ - url:/assets/images/10월30일/IMG_2656.png
+   image_path:/assets/images/10월30일/IMG_2656.png
+   alt:
+   title:
