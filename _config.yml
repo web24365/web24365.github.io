@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: For Annapurna
+title: "For Annapurna"
 email: web24@hanmail.net
 description: >- # this means to ignore newlines until "baseurl:"
   Sometimes trekking, sometimes coding
@@ -114,7 +114,7 @@ tag_archive:
   path: /tags/
 
 
-  gallery:
+gallery:
  - url:/assets/images/10월30일/IMG_2656.png
    image_path:/assets/images/10월30일/IMG_2656.png
    alt:
