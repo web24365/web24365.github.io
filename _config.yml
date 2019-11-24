@@ -16,7 +16,7 @@
 title: For Annapurna
 email: web24@hanmail.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Trekker, developer, founder, student for everything
+  Sometimes trekking, sometimes coding
 # twitter_username: username
 github_username: web24365
 minimal_mistakes_skin: default
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Youjun Won"
+  avatar : "/assets/images/mardi-himal.jpg"
+  bio    : "Trekker, developer, founder, student for everything."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
